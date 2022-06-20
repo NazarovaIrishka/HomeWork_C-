@@ -1,0 +1,15 @@
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\bin\Debug\net6.0\HomeWorkC#_2.exe
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\bin\Debug\net6.0\HomeWorkC#_2.deps.json
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\bin\Debug\net6.0\HomeWorkC#_2.runtimeconfig.json
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\bin\Debug\net6.0\HomeWorkC#_2.dll
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\bin\Debug\net6.0\HomeWorkC#_2.pdb
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\obj\Debug\net6.0\HomeWorkC#_2.csproj.AssemblyReference.cache
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\obj\Debug\net6.0\HomeWorkC#_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\obj\Debug\net6.0\HomeWorkC#_2.AssemblyInfoInputs.cache
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\obj\Debug\net6.0\HomeWorkC#_2.AssemblyInfo.cs
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\obj\Debug\net6.0\HomeWorkC#_2.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\obj\Debug\net6.0\HomeWorkC#_2.dll
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\obj\Debug\net6.0\refint\HomeWorkC#_2.dll
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\obj\Debug\net6.0\HomeWorkC#_2.pdb
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\obj\Debug\net6.0\HomeWorkC#_2.genruntimeconfig.cache
+C:\Users\Serg\Desktop\Практика\C#\HomeWorkC#_2\obj\Debug\net6.0\ref\HomeWorkC#_2.dll
