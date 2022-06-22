@@ -56,6 +56,7 @@ Console.WriteLine("max = " + max);
 
 
 
+
 /*
 // Задача 3
 
@@ -77,7 +78,7 @@ else
 
 
 
-/*
+
 // Задача 4
 
 int N, current = 2;
@@ -86,13 +87,11 @@ N = Convert.ToInt32(Console.ReadLine());
 
 while(current <= N)
 {
-    if (current % 2 == 0)
-    {
-        Console.Write ( current + " " );
-        current = current+=2;
+    
+    
+    Console.Write ( current + " " );
+    current = current+=2;
 
-    }
 }
 
 Console.WriteLine(" ");
-*/
