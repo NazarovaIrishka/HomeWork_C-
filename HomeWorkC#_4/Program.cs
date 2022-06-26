@@ -31,6 +31,8 @@ else
 
 //Задача 2.
 
+
+/*
 Console.Write("Enter the number of elements: ");
 int size = Convert.ToInt32(Console.ReadLine());
 int [] arr = new int [ size ];
@@ -66,4 +68,6 @@ void Array (int [] array )
 }
 }
 
+
+*/
 // Выбор случайных чисел сделала до 100, т.к. в примере больше чем двузначных чисел нет. 
