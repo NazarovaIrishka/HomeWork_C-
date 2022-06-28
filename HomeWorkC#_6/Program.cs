@@ -42,11 +42,11 @@ Console.WriteLine ("Number of positive numbers = " + NumberOfPositiveNumbers(myA
 //Задача 2.
 // Вопрос: как проверить, что выводится "копированный" массив, а не заданный.
 
+/*
 int [] CopyArray (int [] array)
 {
     int [] NewArray = new int[array.Length];
     for (int i = 0; i < array.Length; i++ )
-
     {
         NewArray [i]  = array [i];
     }
@@ -62,7 +62,7 @@ void PrintArray (int [] array)
     }
     Console.WriteLine();
 }
-
+*/
 
 
 // Проверка программы через конвертацию.
